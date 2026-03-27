@@ -1,10 +1,10 @@
-# 🛒 E-Commerce Customer Analytics & Recommendation System
+# E-Commerce Customer Analytics & Recommendation System
 --------------------------------------------------------------------------------------------------------
 
 <img width="763" height="426" alt="Screenshot 2026-03-27 152756" src="https://github.com/user-attachments/assets/baa84c77-aaa6-4907-b83d-7aec3357f57d" />
 
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an end-to-end data analytics and machine learning solution designed to analyze customer behavior, segment customers, and provide product recommendations.
 
@@ -12,7 +12,7 @@ It simulates real-world business use cases similar to leading e-commerce platfor
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze customer purchasing behavior
 * Identify high-value customers
@@ -23,7 +23,7 @@ It simulates real-world business use cases similar to leading e-commerce platfor
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 * MLxtend (Association Rules)
@@ -32,7 +32,7 @@ It simulates real-world business use cases similar to leading e-commerce platfor
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 
 ### 🔹 Data Collection
 
@@ -95,7 +95,7 @@ It simulates real-world business use cases similar to leading e-commerce platfor
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * High-value customers contribute a major portion of revenue
 * A small number of products drive most sales
@@ -105,7 +105,7 @@ It simulates real-world business use cases similar to leading e-commerce platfor
 
 ---
 
-## 💼 Business Impact
+## Business Impact
 
 This project helps businesses:
 
@@ -116,7 +116,7 @@ This project helps businesses:
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 This project demonstrates strong skills in data analysis, machine learning, and business intelligence, making it highly relevant for real-world data-driven decision making.
 
