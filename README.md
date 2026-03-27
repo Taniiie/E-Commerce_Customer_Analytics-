@@ -1,4 +1,8 @@
 # 🛒 E-Commerce Customer Analytics & Recommendation System
+--------------------------------------------------------------------------------------------------------
+
+<img width="763" height="426" alt="Screenshot 2026-03-27 152756" src="https://github.com/user-attachments/assets/baa84c77-aaa6-4907-b83d-7aec3357f57d" />
+
 
 ## 📌 Project Overview
 
