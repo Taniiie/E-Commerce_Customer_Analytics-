@@ -105,20 +105,6 @@ It simulates real-world business use cases similar to leading e-commerce platfor
 
 ---
 
-## 📂 Project Structure
-
-Ecommerce-Customer-Analytics/
-│
-├── data/
-├── notebooks/
-├── outputs/
-├── dashboard/
-│   └── powerbi.pbix
-│
-└── README.md
-
----
-
 ## 💼 Business Impact
 
 This project helps businesses:
